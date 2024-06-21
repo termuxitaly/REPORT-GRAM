@@ -1,0 +1,4 @@
+prettytable
+telethon
+colorama
+termcolor
